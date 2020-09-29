@@ -7,7 +7,7 @@ def create_an_array
   return color
 end
 
-def add_element_to_end_of_array(color, "blue")
+def add_element_to_end_of_array("blue")
   color << "blue"
 end
 
