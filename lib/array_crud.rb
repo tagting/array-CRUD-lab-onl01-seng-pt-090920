@@ -32,5 +32,5 @@ def retrieve_first_element_from_array(c)
 end
 
 def retrieve_last_element_from_array(c)
-  c.[-1]
+  c[-1]
 end
