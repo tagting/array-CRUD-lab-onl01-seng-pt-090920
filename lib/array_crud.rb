@@ -24,7 +24,7 @@ def remove_element_from_start_of_array(c)
 end
 
 def retrieve_element_from_index(c, index_number)
-  return c[index_number]
+  c[index_number]
 end
 
 def retrieve_first_element_from_array(c)
