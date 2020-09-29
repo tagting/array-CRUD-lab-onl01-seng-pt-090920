@@ -4,6 +4,7 @@ end
 
 def create_an_array
   c = ["red", "orange", "yellow", "green"]
+  return array
 end
 
 def add_element_to_end_of_array(array = c,element)
